@@ -6,9 +6,7 @@ public class Lab0046_Decrement_02 {
         int result =--a;
 
         System.out.println(result);//9
-        System.out.println(a);//9
+        System.out.println(a);     //9
 
     }
-
-
 }

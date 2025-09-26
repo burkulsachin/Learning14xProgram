@@ -9,7 +9,9 @@ public class Lab0052_Print_Tables {
 
         for(int i=1;i<11;i++){
             System.out.println(" "+i*n);
-
+//hjfghugvfuhfhujvkuhjvfyujjhvhjkuvhjyjuhkjcguyfjhfyufuyfjuy
+            System.out.println("HEll0");
+            System.out.println("HEll0");
         }
     }
 }
