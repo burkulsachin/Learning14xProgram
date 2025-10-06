@@ -19,27 +19,22 @@ public class Lab0077_Function_Arth {
 
         // Step 3 - Write the code and Find and Fix  -> Edge Cases
         Scanner scanner = new Scanner(System.in);
-        int a= readInt(scanner,"Enter the num1");
-        int b= readInt(scanner,"Enter the num2");
+        int a = readInt(scanner, "Enter the num1");
+        int b = readInt(scanner, "Enter the num2");
 
-        int result_sum=sum(a,b);
-        int result_sub=sub(a,b);
-        int result_mul=mul(a,b);
-        int result_div=div(a,b);
-        int result_mod=mod(a,b);
+        int result_sum = sum(a, b);
+        int result_sub = sub(a, b);
+        int result_mul = mul(a, b);
+        int result_div = div(a, b);
+        int result_mod = mod(a, b);
 
-        System.out.println("result_sum :"+ result_sum);
-        System.out.println("result_sub :"+result_sub);
-        System.out.println("result_mul :"+result_mul);
-        System.out.println("result_div :"+result_div);
-        System.out.println("result_mod :"+result_mod);
-
-
-
-
+        System.out.println("result_sum :" + result_sum);
+        System.out.println("result_sub :" + result_sub);
+        System.out.println("result_mul :" + result_mul);
+        System.out.println("result_div :" + result_div);
+        System.out.println("result_mod :" + result_mod);
 
     }
-
     static int readInt(Scanner scanner, String prompt) {
         System.out.println(prompt);
         if (scanner.hasNextInt()) {
@@ -48,10 +43,8 @@ public class Lab0077_Function_Arth {
             System.out.println("Enter the integer only");
             System.exit(0);
             return 0;
-
         }
     }
-
     static int sum(int a, int b) {
         return a + b;
     }
@@ -67,7 +60,6 @@ public class Lab0077_Function_Arth {
         }
         return a / b;
     }
-
     static int mul(int a, int b) {
         return a * b;
     }
