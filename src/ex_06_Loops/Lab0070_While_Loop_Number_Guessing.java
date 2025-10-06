@@ -1,5 +1,8 @@
 package ex_06_Loops;
 
+import java.util.Random;
+import java.util.Scanner;
+
 public class Lab0070_While_Loop_Number_Guessing {
    public static void main (String[] args)
    {
@@ -62,5 +65,4 @@ public class Lab0070_While_Loop_Number_Guessing {
 }
 
 
--{
-}
+
