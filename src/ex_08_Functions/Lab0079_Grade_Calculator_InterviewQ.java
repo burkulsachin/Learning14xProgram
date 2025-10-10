@@ -15,7 +15,7 @@ public class Lab0079_Grade_Calculator_InterviewQ {
         System.out.println("Enter the score ");
         int score = scanner.nextInt();
 
-        char grade;
+        char grade = 0;
 
         if (score >= 90 && score <= 100) {
             grade = 'A';
