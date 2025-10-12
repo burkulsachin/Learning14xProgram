@@ -1,7 +1,7 @@
 package ex_11_Interiew_programs;
 
 public class Lab00997_String_Palindrome {
-    public static void main(String[] args) {
+    static void main(String[] args) {
         String str = "Sachin";
 //         int len =str.length();
 //        System.out.println(len);

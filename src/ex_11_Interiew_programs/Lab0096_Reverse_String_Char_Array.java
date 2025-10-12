@@ -3,7 +3,7 @@ package ex_11_Interiew_programs;
 import java.util.Scanner;
 
 public class Lab0096_Reverse_String_Char_Array {
-    public static void main(String[] args) {
+    static void main(String[] args) {
         System.out.println("Enter the input string i will reverse it");
 
         Scanner scanner=new Scanner(System.in);
