@@ -23,6 +23,9 @@ public class Lab0088_String_Functions2 {
         boolean b2= "JAVA".equalsIgnoreCase("java");
         System.out.println(b2);
 
+        long count ="a\nb\nc".lines().count();
+        System.out.println(count);
+
 
 
 
