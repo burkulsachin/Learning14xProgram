@@ -1,5 +1,7 @@
 package ex_10_StringBuilder_StringBuffer;
 
+import javax.print.DocFlavor;
+
 public class Lab0090_String_Functions {
     public static void main(String[] args) {
         String name = "Sachin";
@@ -72,8 +74,22 @@ public class Lab0090_String_Functions {
 
       //  StringBuilder sb = new StringBuilder("Hi
 
-        StringBuilder sb = new StringBuilder("Hi");
-        System.out.println(sb.toString());
+        StringBuilder sb = new StringBuilder("Sachin ");
+        System.out.println(sb);
+
+        sb.reverse();
+        System.out.println(sb);
+
+
+        StringBuilder stringBuilder1 = new StringBuilder("Sachin ");
+        stringBuilder1.toString();
+        System.out.println(stringBuilder1);
+
+
+
+
+
+
 
 
     }
