@@ -1,4 +1,4 @@
-package ex_Arrays;
+package ex_13_Arrays;
 
 public class Lab0098_Arrays {
     public static void main(String[] args) {

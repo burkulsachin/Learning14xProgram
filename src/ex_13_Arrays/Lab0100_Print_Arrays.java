@@ -1,6 +1,4 @@
-package ex_Arrays;
-
-import java.util.SortedMap;
+package ex_13_Arrays;
 
 public class Lab0100_Print_Arrays {
     public static void main(String[] args) {
