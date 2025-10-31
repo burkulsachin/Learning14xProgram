@@ -10,9 +10,6 @@ public class Lab0127_Car3 {
 
         this.model=model_name;
         this.year=year_created;
-
-
-
     }
 
     //
