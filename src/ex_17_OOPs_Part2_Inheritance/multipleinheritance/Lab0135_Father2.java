@@ -1,4 +1,4 @@
-package ex_OOPs_Part2_Inheritance.multipleinheritance;
+package ex_17_OOPs_Part2_Inheritance.multipleinheritance;
 
 public class Lab0135_Father2 {
     void money(){

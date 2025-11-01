@@ -1,4 +1,4 @@
-package ex_OOPs_Constructor;
+package ex_16_OOPs_Constructor;
 
 public class Lab0124_Car {
          String name;

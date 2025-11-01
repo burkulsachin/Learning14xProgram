@@ -1,4 +1,4 @@
-package ex_OOPs_Part2_Inheritance.multilevel;
+package ex_17_OOPs_Part2_Inheritance.multilevel;
 
 public class Lab0137_Grandfather {
     void home(){

@@ -1,4 +1,4 @@
-package ex_OOPs_Part2_Inheritance.multipleinheritance;
+package ex_17_OOPs_Part2_Inheritance.multipleinheritance;
 
 public class Lab0136_Son  extends  Lab0134_Father1{
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package ex_OOPs_Part2_Inheritance;
+package ex_17_OOPs_Part2_Inheritance;
 
 public class Lab0128_Father {
 

@@ -1,6 +1,4 @@
-package ex_OOPs_Part2_Inheritance.hierarchical;
-
-import java.util.Arrays;
+package ex_17_OOPs_Part2_Inheritance.hierarchical;
 
 public class Lab0142_Hierarchical {
     public static void main(String[] args) {
