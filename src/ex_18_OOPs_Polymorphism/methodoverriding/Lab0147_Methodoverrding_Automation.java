@@ -17,8 +17,6 @@ public class Lab0147_Methodoverrding_Automation {
 
         CommonToAll cff = new FireFoxTC();
         cff.openBrowser();
-
-
     }
 }
 class CommonToAll{
