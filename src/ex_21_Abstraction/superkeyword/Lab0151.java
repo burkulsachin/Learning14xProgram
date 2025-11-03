@@ -1,4 +1,4 @@
-package ex_20__OOPs_accessModifer.superkeyword;
+package ex_21_Abstraction.superkeyword;
 
 public class Lab0151 {
     public static void main(String[] args) {
