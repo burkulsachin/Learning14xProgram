@@ -7,7 +7,8 @@ public class Ex_4_Anonymous_Inner_Class {
             public void click() {
                 System.out.println("Button Clicked");
             }
-        };btn.click();
+        };
+        btn.click();
     }
 }
 
