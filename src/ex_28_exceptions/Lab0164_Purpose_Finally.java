@@ -1,0 +1,18 @@
+package ex_28_exceptions;
+
+import java.util.Scanner;
+
+public class Lab0164_Purpose_Finally {
+    public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+        try {
+            int v = sc.nextInt();
+            int a = 10/v;
+        } catch (ArithmeticException e) {
+            System.out.println(e.getMessage());
+        }finally {
+            sc.close();
+            // db, json , ...close
+        }
+    }
+}
