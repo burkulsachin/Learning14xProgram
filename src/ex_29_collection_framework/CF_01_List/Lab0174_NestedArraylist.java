@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class Lab0174_NestedArraylist {
-    public static void main(String[] args) {
+    static void main(String[] args) {
 
         List <String> fruits1 =new ArrayList();
         fruits1.add("orange");

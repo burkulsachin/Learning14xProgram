@@ -1,7 +1,7 @@
 package ex_29_collection_framework.CF_01_List;
 import java.util.Stack;
 public class Lab0178_Stack {
-    public static void main(String[] args) {
+    static void main(String[] args) {
         Stack s1 = new Stack();
         //  List In and First Out
 
@@ -24,8 +24,6 @@ public class Lab0178_Stack {
         s.add("Nive");
         s.push("pawa");
         System.out.println(s);
-
-
 
         System.out.println(s.get(0));
         System.out.println(s.get(1));

@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class Lab0171_List {
-    public static void main(String[] args) {
+    static void main(String[] args) {
         List fruits = List.of("Orange","Apple","Watermelon","Mango");
         System.out.println(fruits);
 

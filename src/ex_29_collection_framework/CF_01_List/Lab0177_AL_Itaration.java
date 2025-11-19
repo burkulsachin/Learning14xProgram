@@ -6,7 +6,7 @@ import java.util.List;
 import java.util.function.ToDoubleBiFunction;
 
 public class Lab0177_AL_Itaration {
-    public static void main(String[] args) {
+    static void main(String[] args) {
         List<String> list =new ArrayList<String>();
 
         list.add("Sachin");

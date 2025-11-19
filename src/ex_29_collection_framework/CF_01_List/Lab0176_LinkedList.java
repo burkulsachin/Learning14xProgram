@@ -4,7 +4,7 @@ import java.util.LinkedList;
 import java.util.List;
 
 public class Lab0176_LinkedList {
-    public static void main(String[] args) {
+    static void main(String[] args) {
         List list = new LinkedList();
 
         list.add("A");
